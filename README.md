@@ -1,4 +1,4 @@
-Stevo17.github.io
+stevo17.github.io
 =================
 
 My Github Pages site
